@@ -1,5 +1,3 @@
-İşte gönderdiğin README dosyasının Türkçe çevirisi:
-
 Bu, create-next-app ile oluşturulmuş bir Next.js projesidir.
 
 Başlangıç
