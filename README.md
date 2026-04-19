@@ -26,7 +26,7 @@ Bu proje modern frontend ekosisteminin en güncel araçları kullanılarak inşa
 
 ## 📂 Proje Yapısı
 
-\`\`\`text
+```text
 src/
 ├── app/
 │   ├── actions/          # Sunucu taraflı işlemler (örn. sendEmail.ts)
@@ -42,7 +42,6 @@ src/
 │   ├── Header.tsx        # Navigasyon ve kontroller
 │   ├── MobileMenu.tsx    # Mobil uyumlu menü
 │   └── ThemeProvider.tsx # Dark/Light mod sağlayıcısı
-\`\`\`
 
 ## ⚙️ Kurulum ve Çalıştırma
 
